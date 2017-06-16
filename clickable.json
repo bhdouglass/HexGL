@@ -1,0 +1,6 @@
+{
+  "template": "pure",
+  "arch": "all",
+  "ignore": [".git"],
+  "kill": "webapp-container"
+}

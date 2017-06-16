@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=HexGL
+Exec=webapp-container --app-id="hexgl.bhdouglass" $@ index.html
+Icon=icon_64.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true

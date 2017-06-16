@@ -1,0 +1,15 @@
+{
+    "name": "hexgl.bhdouglass",
+    "title": "HexGl",
+    "description": "HexGl game by Thibaut Despoulain",
+    "architecture": "all",
+    "framework": "ubuntu-sdk-15.04.6",
+    "hooks": {
+        "hexgl": {
+            "apparmor": "hexgl.apparmor",
+            "desktop": "hexgl.desktop"
+        }
+    },
+    "maintainer": "Brian Douglass <bhdouglass@gmail.com>",
+    "version": "1.0"
+}
